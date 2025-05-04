@@ -1,0 +1,20 @@
+# Ignorar la carpeta de videos
+videos/
+
+# Para ignorar todos los archivos de video en cualquier carpeta
+*.mp4
+*.avi
+*.mkv
+*.mov
+*.flv
+*.wmv
+
+# Otros archivos y carpetas comunes para ignorar
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+env/
+venv/
+ENV/
